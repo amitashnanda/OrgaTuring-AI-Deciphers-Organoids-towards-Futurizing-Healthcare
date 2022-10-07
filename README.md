@@ -1,0 +1,2 @@
+# OrgaTuring-AI-Deciphers-Organoids-towards-Futurizing-Healthcare
+OrgaTuring is a novel deep-learning approach to investigating organoids and designing a real-time accurate medical device. The CNN-based interpretable deep-learning model facilitates the real-time location, quantification, tracking, and classification of organoids from 2D and 3D images. This research will serve as a stepping stone to creating smart point-of-care devices equipped with mobile healthcare.
