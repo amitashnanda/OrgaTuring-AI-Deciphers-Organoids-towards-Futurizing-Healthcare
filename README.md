@@ -40,8 +40,10 @@ jupyter notebook
 
   
 ![](/results/1.png)
-![](/results/2.png)
 Source: Anupma Singh, Medic Presents - ‘Organoids Infographic – Revolutionizing the Study of Human Development and Disease’
+![](/results/2.png)
+## Inflamed Images
 ![](/results/Inflamed.png)
+## NonInflamed Images
 ![](/results/NonInflamed.png)
 
