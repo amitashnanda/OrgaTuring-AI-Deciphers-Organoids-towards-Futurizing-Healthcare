@@ -46,10 +46,10 @@ jupyter notebook
 ## What is Organoid?
 ![](/results/3.png)
 
-##Potential
-![](/results/3.png)
+## Potential
+![](/results/4.png)
 
-##OrgaTuring
+## OrgaTuring
 ![](/results/5.png)
 
 ![](/results/6.png)
